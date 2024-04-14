@@ -41,8 +41,8 @@ local function OCQGAWW_fake_script() -- TextButton.LocalScript
 		local world = game:GetService("Players").LocalPlayer.PlayerGui.InGame.Map.Text
 	
 		local function check_capsule()
-			if game:GetService("Players").LocalPlayer.PlayerGui.HUD["Secret_Capsule"].Visible == false then 
-				game:GetService("Players").LocalPlayer.PlayerGui.HUD["Secret_Capsule"].Visible  = true
+			if game:GetService("Players").LocalPlayer.PlayerGui.HUD["Secret Capsule"].Visible == false then 
+				game:GetService("Players").LocalPlayer.PlayerGui.HUD["Secret Capsule"].Visible  = true
 			end
 		end
 	
